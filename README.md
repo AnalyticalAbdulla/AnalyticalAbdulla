@@ -1,4 +1,5 @@
 ### Hi there 👋
+Academic research, research papers, Basic and Applied Research, Research Methodology, Data Analysis, SPSS, AMOS, Atlas, digital creator, AI developer, entrepreneurship networking
 
 <!--
 **AnalyticalAbdulla/AnalyticalAbdulla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
